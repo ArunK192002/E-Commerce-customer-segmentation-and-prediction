@@ -123,9 +123,7 @@ segment_encoder = joblib.load('label_encoder_segment.pkl')
 
 ## ✍️ Author
 
-Arun (Your Name)
+Arun 
 
 ---
-
-Feel free to contact me for any clarifications or improvements regarding this project.
 
