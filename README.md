@@ -1,4 +1,7 @@
-# 📊 E-commerce Customer Segmentation and Classification
+# 📊 E-commerce Customer Segmentation and Prediction
+
+## 📁 Data
+- Dattaset - https://www.kaggle.com/datasets/arunslayer/e-commerce-customer-segmentation
 
 ## 📁 Project Overview
 
@@ -17,7 +20,6 @@ This project focuses on **customer segmentation and predictive modeling** for an
 ```text
 🔼
 ├── ml_env/                           # Virtual environment folder
-├── Visualization/                    # Folder containing clustering and feature plots
 ├── customer_segmentation.xlsx        # Processed customer segmentation data
 ├── data.xlsx                         # Raw e-commerce transactional data
 ├── Ecommerce_Customer_Segmentation_Project.ipynb  # Jupyter Notebook (Full analysis)
